@@ -1,7 +1,7 @@
 # 👋 Welcome to CodeByBryant's GitHub!
 
 ### 🌟 About Me
-Hi, I’m **Bryant Ejorh**, the mind behind _CodeByBryant_. I’m an  programmer passionate about turning ideas into reality through code. My interests span:
+Hi, I’m **Bryant Ejorh**, the mind behind _CodeByBryant_. I’m a programmer passionate about turning ideas into reality through code. My interests span:
 
 - **Game Development** 🎮
 - **Scripting and Automation** 🔧
