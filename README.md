@@ -11,7 +11,8 @@ Hi, I’m **Bryant Ejorh**, the mind behind _CodeByBryant_. I’m a programmer p
 ### 💻 Projects
 Here are some of my favorite creations:
 
-- _[EvoSquares](https://github.com/CodeByBryant/EvoSquares/)_
+- _**[EvoSquares](https://github.com/CodeByBryant/EvoSquares/)**_
+- _**[Xenith Showcase](https://github.com/CodeByBryant/Xenith-Showcase/)**_
 
 ### 🚀 Skills
 - **Programming Languages**: Lua, Python, JavaScript, C/C#/C++
