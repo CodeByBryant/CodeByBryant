@@ -3,7 +3,7 @@
 ### 🌟 About Me
 Hi, I’m **Bryant Ejorh**, the mind behind _CodeByBryant_. I’m a programmer passionate about turning ideas into reality through code. My interests span:
 
-- **Game Development** 🎮
+- **App Development** 🧑‍💻
 - **Scripting and Automation** 🔧
 - **Creative Problem Solving** 💡
 - **Detailed Simulations**  📊
@@ -15,8 +15,7 @@ Here are some of my favorite creations:
 - _**[Xenith Showcase](https://github.com/CodeByBryant/Xenith-Showcase/)**_
 
 ### 🚀 Skills
-- **Programming Languages**: Lua, Python, JavaScript, C/C#/C++
-- **Game Engines**: Roblox Studio, Unity (beginner)
+- **Programming Languages**: Java, Python, JavaScript, C/C#/C++
 - **Development Tools**: Git, VS Code, Blender (basic modeling)
 
 ### 🌐 Connect With Me
