@@ -23,8 +23,13 @@ Here are some of my favorite creations:
 - **Portfolio**: _[Coming Soon!](#)_
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=CodeByBryant&show_icons=true&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByBryant&theme=radical&layout=donut)
+
+<a href="https://github.com/CodeByBryant">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByBryant&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/CodeByBryant">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByBryant&theme=radical&layout=donut" />
+</a>
 
 ### 📌 Fun Fact
 I’m always looking to improve my skills. Got a project or idea? Let’s collaborate!
