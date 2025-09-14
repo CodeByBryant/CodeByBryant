@@ -25,10 +25,11 @@ Here are some of my favorite creations:
 ### 📈 GitHub Stats
 
 <a href="https://github.com/CodeByBryant">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByBryant&show_icons=true&theme=radical" />
+  <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByBryant&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura" />
 </a>
+
 <a href="https://github.com/CodeByBryant">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByBryant&theme=radical&layout=donut" />
+  <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByBryant&layout=donut-vertical&theme=aura" />
 </a>
 
 ### 📌 Fun Fact
