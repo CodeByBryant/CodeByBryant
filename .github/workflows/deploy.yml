@@ -29,7 +29,6 @@ jobs:
         with:
           node-version: 18
           cache: "npm"
-          cache-dependency-path: ./Portfolio/package-lock.json
 
       - name: Init submodules
         run: git submodule update --init --recursive
