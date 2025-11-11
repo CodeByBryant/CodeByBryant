@@ -31,6 +31,9 @@ jobs:
           cache: "npm"
           cache-dependency-path: ./Portfolio/package-lock.json
 
+      - name: Init submodules
+        run: git submodule update --init --recursive
+
       - name: Install dependencies
         working-directory: ./Portfolio
         run: npm install
