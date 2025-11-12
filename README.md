@@ -47,7 +47,7 @@ Watch digital entities evolve in real-time using genetic algorithms. A visual jo
 <td width="50%">
 
 ### 🌟 [Xenith Showcase](https://github.com/CodeByBryant/Xenith-Showcase/)
-**Creative Development Platform**
+**Self Improvement App**
 
 Preview for Xenith; an AI-powered self-improvement app for teens and young adults. Track habits, set goals, and earn rewards while building discipline and achieving personal growth.
 
@@ -126,17 +126,6 @@ Preview for Xenith; an AI-powered self-improvement app for teens and young adult
 - 🌱 Learning **advanced algorithms** and **system design**
 - 💬 Ask me about **Python**, **Java**, **React**, or **game development**
 - ⚡ Fun fact: **I turn coffee into code** ☕ → 💻
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeByBryant&repo=EvoSquares&theme=aura)](https://github.com/CodeByBryant/EvoSquares)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeByBryant&repo=Xenith-Showcase&theme=aura)](https://github.com/CodeByBryant/Xenith-Showcase)
-
-</div>
 
 ---
 
