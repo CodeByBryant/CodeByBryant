@@ -35,7 +35,7 @@ const bryant = {
 <tr>
 <td width="50%">
 
-### 🧬 [EvoSquares](https://github.com/CodeByBryant/EvoSquares/)
+### 🧬 [Evo](https://github.com/CodeByBryant/EvoSquares/)
 **Evolutionary Algorithm Simulator**
 
 Watch digital entities evolve in real-time using genetic algorithms. Inspired by Conway's Game of Life.
