@@ -38,10 +38,11 @@ const bryant = {
 ### 🧬 [EvoSquares](https://github.com/CodeByBryant/EvoSquares/)
 **Evolutionary Algorithm Simulator**
 
-Watch digital entities evolve in real-time using genetic algorithms. A visual journey into artificial life!
+Watch digital entities evolve in real-time using genetic algorithms. Inspired by Conway's Game of Life.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-00979D?style=flat-square&logo=pygame&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3776AB?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=artificial-intelligence&logoColor=white)
 
 </td>
 <td width="50%">
