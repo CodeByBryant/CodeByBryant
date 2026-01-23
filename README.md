@@ -101,9 +101,9 @@ Preview for Xenith; an AI-powered self-improvement app for teens and young adult
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeByBryant&theme=darkhub&no-frame=true&no-bg=false&row=1&column=7)](https://github.com/CodeByBryant)
-
+    
+[![trophy](https://github-trophies.vercel.app/?username=CodeByBryant&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/CodeByBryant)
+    
 </div>
 
 ---
@@ -115,7 +115,8 @@ Preview for Xenith; an AI-powered self-improvement app for teens and young adult
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebybryant.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByBryant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codebybryant@gmail.com)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/CodeByBryant)
 
 </div>
 
