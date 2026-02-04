@@ -47,7 +47,7 @@ Watch digital entities evolve in real-time using genetic algorithms. Inspired by
 </td>
 <td width="50%">
 
-### 🌟 [Xenith Showcase](https://github.com/CodeByBryant/Xenith-Showcase/)
+### 🌟 [Xenith](https://github.com/CodeByBryant/Xenith/)
 **Self Improvement App**
 
 Preview for Xenith; an AI-powered self-improvement app for teens and young adults. Track habits, set goals, and earn rewards while building discipline and achieving personal growth.
